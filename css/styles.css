@@ -179,7 +179,10 @@ table {
   gap: 105px;
   flex-wrap: wrap;
 }
+/*#region назва*/
+
 .second-item-text {
 }
 .second-item-header {
 }
+/*#endregion назва*/
